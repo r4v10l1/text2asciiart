@@ -1,0 +1,24 @@
+                        a
+                       aaa
+                       aaa
+                      aaaaa
+                      aaaaa
+       aa             aaaaa             aa
+       aaaa          aaaaaaa          aaaa
+       aaaaa         aaaaaaa         aaaaa
+       aaaaaa        aaaaaaa        aaaaaa
+        aaaaaa       aaaaaaa       aaaaaa
+        aaaaaaa      aaaaaaa      aaaaaaa
+         aaaaaaa     aaaaaaa     aaaaaaa
+         aaaaaaaa    aaaaaaa    aaaaaaaa
+aaaa      aaaaaaaa   aaaaaaa   aaaaaaaa      aaaa
+ aaaaaa     aaaaaaa  aaaaaaa  aaaaaaa    aaaaaa
+   aaaaaaa    aaaaaa aaaaaaa aaaaaa   aaaaaaa
+     aaaaaaa    aaaaaaaaaaaaaaaaa   aaaaaaa
+       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+          aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+             aaaaaaaaaaaaaaaaaaaaaaaa
+                  aaaaaaaaaaaaa
+                 aaaaa aaa aaaaa
+                      aaaaa
+                        a
