@@ -7,7 +7,7 @@ This scipt reads a file with text (`text_file_path`) and a file with some ascii 
 <br>
 <p align="center">
     <img src="https://github.com/r4v10l1/text2asciiart/blob/main/Images/penis.png" alt="penis.txt">
-    <img height="400em" src="https://github.com/r4v10l1/text2asciiart/blob/main/Images/weed.png" alt="weed.txt">
-    <img height="400em" src="https://github.com/r4v10l1/text2asciiart/blob/main/Images/output.png" alt="output.txt">
+    <img height="390em" src="https://github.com/r4v10l1/text2asciiart/blob/main/Images/weed.png" alt="weed.txt">
+    <img height="390em" src="https://github.com/r4v10l1/text2asciiart/blob/main/Images/output.png" alt="output.txt">
 </p>
 
